@@ -1,0 +1,4 @@
+add cli interface
+make package description object instead of using dict
+use hashmap in utils.have_pkgs to avoid O(n^2)
+
